@@ -6,14 +6,14 @@
 <p align="center">A small webcam player focused on providing an easy way to add and control your webcam during recordings.</p>
 
 <h3 align="center">
-  <a href="https://github.com/maykbrito/mini-video-me/actions/workflows/build.yml" target="_blank">
+  <a href="https://github.com/acampagnaro/mini-video-me/actions/workflows/build.yml" target="_blank">
     <img alt="Build" src="https://github.com/maykbrito/mini-video-me/actions/workflows/build.yml/badge.svg" />
   </a>
   <a href="#" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
   <a href="https://twitter.com/maykbrito" target="_blank">
-    <img alt="Twitter: maykbrito" src="https://img.shields.io/twitter/follow/maykbrito.svg?style=social" />
+    <img alt="Twitter: ALEXAND40585555" src="https://img.shields.io/twitter/follow/ALEXAND40585555.svg?style=social" />
   </a>
 </h3>
 
@@ -21,7 +21,7 @@
 
 ## Installation
 
-Download the latest version from [releases page](https://github.com/maykbrito/mini-video-me/releases) and run it.
+Download the latest version from [releases page](https://github.com/acampagnaro/mini-video-me/releases) and run it.
 
 ## Running locally
 
@@ -119,12 +119,11 @@ you can build with `clip-path`.
 
 ## Author
 
-👤 **Mayk Brito**
+👤 **Alexandre Campagnaro**
 
-- Twitter: [@maykbrito](https://twitter.com/maykbrito)
-- Github: [@maykbrito](https://github.com/maykbrito)
-- LinkedIn: [@maykbrito](https://linkedin.com/in/maykbrito)
-
+- Twitter: [@maykbrito](https://twitter.com/ALEXAND40585555)
+- Github: [@maykbrito](https://github.com/acampagnaro)
+- LinkedIn: [@maykbrito](https://linkedin.com/in/alexandre-campagnaro-4257b870)
 ## Show your support
 
 Give a ⭐️ if this project helped you!
