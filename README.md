@@ -41,7 +41,7 @@ yarn start
 
 Sample preview running the app:
 
-![Preview](.github/preview.png)
+<!-- ![Preview](.github/preview.png) -->
 
 ## Usage & settings
 
