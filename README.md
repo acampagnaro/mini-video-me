@@ -121,9 +121,9 @@ you can build with `clip-path`.
 
 👤 **Alexandre Campagnaro**
 
-- Twitter: [@maykbrito](https://twitter.com/ALEXAND40585555)
-- Github: [@maykbrito](https://github.com/acampagnaro)
-- LinkedIn: [@maykbrito](https://linkedin.com/in/alexandre-campagnaro-4257b870)
+- Twitter: [@acampagnaro](https://twitter.com/ALEXAND40585555)
+- Github: [@acampagnaro](https://github.com/acampagnaro)
+- LinkedIn: [@acampagnaro](https://linkedin.com/in/alexandre-campagnaro-4257b870)
 ## Show your support
 
 Give a ⭐️ if this project helped you!
